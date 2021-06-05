@@ -12,6 +12,7 @@ Project consists the task of:
   -- ***Task 1 will be completed by executing Task_1.py***
 - Downsampling the data from `1 sample/second` to `1 sample/minute` -- ***Task 2 will be completed by executing Task_2.py***
 - Low pass filtering for noise removal
+!C:\Users\apoor\OneDrive\Desktop\Figure_1
 - Profile Testing using `cProfile`
 - Unit Testing on all functions for various test cases using `unittest`
 - Check to maintain `PEP-8` coding style using `pylint`
