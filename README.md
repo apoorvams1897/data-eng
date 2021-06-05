@@ -4,7 +4,8 @@ Project contains data about Battery Charging and Discharging. The source data is
 
 Data Consists of :
 - Battery Charging and Discharging process where details about
-- current, voltage, capacitance, energy consumed and dissipated are all captured by IOT sensors in real-tiem at the rate of 1 sample/second
+- current, voltage, capacitance, energy consumed and dissipated are all captured by IOT sensors in Real-time and Absolute time at the rate of 1 sample/second
+- data is captured at each and every step of various cycles moitored at each jump
 
 Project consists the task of:
 - Combining and storing all the relavant data into appropriate `'detail.csv'`, `'detailVol.csv'` and `'detailTemp.csv'` from the original 'data.xlsx' and 'data_1.xlsx'
