@@ -32,3 +32,9 @@ Task_2.py:9:0: R0903: Too few public methods (1/2) (too-few-public-methods)
 ------------------------------------------------------------------
 Your code has been rated at 9.60/10 (previous run: 9.60/10, +0.00)
 ```
+```
+pylint Task_3.py 
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 9.83/10, +0.17)
+
+```
