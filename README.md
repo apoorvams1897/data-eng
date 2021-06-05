@@ -11,10 +11,8 @@ Project consists the task of:
 - Combining and storing all the relavant data into appropriate `'detail.csv'`, `'detailVol.csv'` and `'detailTemp.csv'` from the original 'data.xlsx' and 'data_1.xlsx' 
   -- ***Task 1 will be completed by executing Task_1.py***
 - Downsampling the data from `1 sample/second` to `1 sample/minute` -- ***Task 2 will be completed by executing Task_2.py***
-- Low pass filtering for noise removals
-https://github.com/apoorvams1897/data-eng/issues/1#issue-912348290
-
-- Profile Testing using `cProfile`
+- Low pass filtering for noise removals -- ***Task 2 will be completed by executing Task_2.py***
+- Profile Testing using `cProfile` -- Folder cProfile contains the cProfile text files for Task_1.py, Task_2.py, Task_3.py
 - Unit Testing on all functions for various test cases using `unittest`
 - Check to maintain `PEP-8` coding style using `pylint`
 
