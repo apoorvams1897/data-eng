@@ -8,8 +8,8 @@ Data Consists of :
 - data is captured at each and every step of various cycles moitored at each jump
 
 Project consists the task of:
-- Combining and storing all the relavant data into appropriate `'detail.csv'`, `'detailVol.csv'` and `'detailTemp.csv'` from the original 'data.xlsx' and 'data_1.xlsx'
-- Downsampling the data from 1 sample/second to 1 sample/minute
+- Combining and storing all the relavant data into appropriate `'detail.csv'`, `'detailVol.csv'` and `'detailTemp.csv'` from the original 'data.xlsx' and 'data_1.xlsx' - Task 1 will be completed by executing Task_1.py
+- Downsampling the data from 1 sample/second to 1 sample/minute - Task 1 will be completed by executing Task_2.py
 - Low pass filtering for noise removal
 - Profile Testing using `cProfile`
 - Unit Testing on all functions for various test cases using `unittest`
