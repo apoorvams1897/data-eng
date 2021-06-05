@@ -12,6 +12,11 @@ Project consists the task of:
   -- ***Task 1 will be completed by executing Task_1.py***
 - Downsampling the data from `1 sample/second` to `1 sample/minute` -- ***Task 2 will be completed by executing Task_2.py***
 - Low pass filtering for noise removals
+
+![Figure_1](https://user-images.githubusercontent.com/60228910/120899554-e9123c80-c64d-11eb-943e-df7670bb4020.png)
+![Figure_2](https://user-images.githubusercontent.com/60228910/120899556-ea436980-c64d-11eb-9b02-a93ba2079150.png)
+![Figure_3](https://user-images.githubusercontent.com/60228910/120899557-ea436980-c64d-11eb-92b1-cfebaf7a5304.png)
+
 - Profile Testing using `cProfile`
 - Unit Testing on all functions for various test cases using `unittest`
 - Check to maintain `PEP-8` coding style using `pylint`
