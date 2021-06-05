@@ -12,7 +12,7 @@ Project consists the task of:
   -- ***Task 1 will be completed by executing Task_1.py***
 - Downsampling the data from `1 sample/second` to `1 sample/minute` -- ***Task 2 will be completed by executing Task_2.py***
 - Low pass filtering for noise removals
-
+https://github.com/apoorvams1897/data-eng/issues/1#issue-912348290
 ![Figure_1](https://user-images.githubusercontent.com/60228910/120899554-e9123c80-c64d-11eb-943e-df7670bb4020.png)
 ![Figure_2](https://user-images.githubusercontent.com/60228910/120899556-ea436980-c64d-11eb-9b02-a93ba2079150.png)
 ![Figure_3](https://user-images.githubusercontent.com/60228910/120899557-ea436980-c64d-11eb-92b1-cfebaf7a5304.png)
