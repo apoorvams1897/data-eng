@@ -10,11 +10,13 @@ Data Consists of :
 Project consists the task of:
 - Combining and storing all the relavant data into appropriate `'detail.csv'`, `'detailVol.csv'` and `'detailTemp.csv'` from the original 'data.xlsx' and 'data_1.xlsx' 
   -- ***Task 1 will be completed by executing Task_1.py***
-- Downsampling the data from 1 sample/second to 1 sample/minute -- ***Task 2 will be completed by executing Task_2.py***
+- Downsampling the data from `1 sample/second` to `1 sample/minute` -- ***Task 2 will be completed by executing Task_2.py***
 - Low pass filtering for noise removal
 - Profile Testing using `cProfile`
 - Unit Testing on all functions for various test cases using `unittest`
 - Check to maintain `PEP-8` coding style using `pylint`
+
+**Important note: Please store original data and .py files under same directory while working, such that all the csv files generated during the runtime will be easily accesible from the same current working directory**
 
 ``` 
 pylint Task_1.py  
