@@ -1,0 +1,7 @@
+Figure 1 shows the original signal i.e., the noisy signal which is chosen by the sin of Auxiliary channel TU1 U(V)
+Auxiliary channel TU1 U(V) id the volume of charges that is present in that battery at any instance of charging and discharging redorded at Real-time/Relative time and Absolute Time
+
+Figure 2 shows the Low pass filtering accomplished on the noisy signal
+
+Figue 3 is to clearly show the low pass filtered signal which is free from noise. 
+It is the same Auxiliary channel TU1 U(V) signal which was noisy in Figure 1 and which is then clean in Figure 2 by the acion of Low Pass Band filtering
