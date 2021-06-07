@@ -25,7 +25,7 @@ pylint Task_1.py
 Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
 ```
 ```
-- pylint Task_2.py  --disable=C0303,C0305,C0103,C0114,C0116,c0115 --max-line-length=240
+- pylint Task_2.py  
 ************* Module Task_2
 Task_2.py:9:0: R0903: Too few public methods (1/2) (too-few-public-methods)
 
